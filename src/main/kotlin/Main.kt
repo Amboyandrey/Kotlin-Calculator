@@ -1,5 +1,5 @@
-/* Amboy, Nino Andrey H.
-   CS 3202 */
+/** Amboy, Nino Andrey H.
+   CS 3202 **/
 
 import java.math.BigDecimal
 import kotlin.math.pow
